@@ -1,5 +1,4 @@
 $(document).ready(function () {
-      // Your code here...
       // Global Variables
       let num1 = [];
       let num2 = [];
